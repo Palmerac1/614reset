@@ -1,0 +1,29 @@
+/*
+Theme Name:         Sage Starter Theme
+Theme URI:          https://roots.io/sage/
+Description:        Sage is a WordPress starter theme. <a href="https://github.com/roots/sage">Contribute on GitHub</a>
+Version:            8.5.1
+Author:             Roots
+Author URI:         https://roots.io/
+Text Domain:        sage
+
+License:            MIT License
+License URI:        http://opensource.org/licenses/MIT
+*/
+
+<div class="container-fluid">
+  ...
+</div>
+
+.page-id-10 .wrap.container {
+    width: 100%;
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+	background: #634c78;
+}
+
+.page-id-10 .content.row {
+	margin:0px;
+	background: #634c78;
+}
